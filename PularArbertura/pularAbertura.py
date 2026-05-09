@@ -7,7 +7,7 @@ import keyboard
 
 # ================= CONFIG =================
 
-BASE_IMAGENS = r"C:\Users\Gustavo Maciel\Python\Automacao\PularArbertura\imagens"
+BASE_IMAGENS = r"" #coloque aqui o endereço onde salvar as imagens
 # onde serão feitas as operações de reconhecer os padrões e seleciona-los
 STREAMERS = {
     "1": {
